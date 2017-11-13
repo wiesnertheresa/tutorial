@@ -5,8 +5,13 @@ print 'Hi computer!';
 =======
 print('yay!')
 >>>>>>> cb7c889f00826e4e478d9925d90651db5621e900
+<<<<<<< HEAD
 ========
 print('test bert')
+=======
+=======
+print('aaaa')
+>>>>>>> da82552bdb896dbe352f0df3861010c786d1ff36
 print('yaaaay')
 print('yay!')
 print("This won't work")
