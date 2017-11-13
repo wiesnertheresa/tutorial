@@ -1,2 +1,1 @@
-print 'Hello conflict, from Simon'
-
+print('Hello conflict, from Simon')
