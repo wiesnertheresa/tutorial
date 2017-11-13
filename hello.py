@@ -6,6 +6,7 @@ print 'Hi computer!';
 print('yay!')
 >>>>>>> cb7c889f00826e4e478d9925d90651db5621e900
 =======
+print('aaaa')
 print('yaaaay')
 print('yay!')
 print("This won't work")
