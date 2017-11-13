@@ -1,1 +1,1 @@
-print 'Hello conflict'
+print 'Hello conflict, from Simon'
