@@ -6,6 +6,7 @@ fprintf('Hello World')
 fprint('Hi Andreanne, how are you?')
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 x = 2+2;
 fprint('what is x?')
 =======
@@ -14,3 +15,5 @@ disp('I am fine and you')
 
 disp('The cake is a lie')
 
+=======
+>>>>>>> parent of 04723f3... math
