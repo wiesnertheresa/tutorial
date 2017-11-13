@@ -2,6 +2,7 @@ print 'Hello world';
 <<<<<<< HEAD
 <<<<<<< HEAD
 print 'Hi computer!';
+print 'I WILL SURVIVE!';
 =======
 print('yay!')
 >>>>>>> cb7c889f00826e4e478d9925d90651db5621e900
